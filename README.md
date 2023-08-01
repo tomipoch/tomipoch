@@ -14,8 +14,16 @@
 - 💞️ Busco colaborar en proyectos que tengan que ver con el diseño web o desarrollo de paginas web y en algún futuro aspirar a cosas más complejas.
 - 📫 Puedes contactarme desde mi email: ft.fernandotomas@gmail.com o a través de mis redes sociales.
 
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCsm9s8buVurjDPvud2lBRqQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="https://www.linkedin.com/in/tomas-poblete-chamorro-a7a424286/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://web.facebook.com/tomipoch/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href = "mailto:ft.fernandotomas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,arduino,java,html,css,js,mysql,git,github,vscode,latex,bash,linux" />
   </a>
