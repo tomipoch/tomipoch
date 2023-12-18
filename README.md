@@ -10,7 +10,7 @@
 
 - 👋 Provengo de Chile, especificamente de Talca, Estudiante de Ingeniería Civil Informática y me gusta mucho la tecnología,
   los e-sports, la moda, escuchar todo tipo de música y jugar al fútbol.
-- 🌱 Actualmente estoy aprendiendo Oracle Database y PHP.
+- 🌱 Actualmente estoy aprendiendo Oracle Database.
 - 💞️ Busco colaborar en proyectos que tengan que ver con el diseño web o desarrollo de paginas web y en algún futuro aspirar a cosas más complejas.
 - 📫 Puedes contactarme desde mi email: ft.fernandotomas@gmail.com o a través de mis redes sociales.
 
