@@ -19,10 +19,20 @@
 <a href = "mailto:ft.fernandotomas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Cosas que domino👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,git,latex,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
   </a>
 </p>
 <br>
+
+<h2 >Otros que conozco pero no domino👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,c,java,git,latex,bash,linux" />
+  </a>
+</p>
+<br>
+
+,c,java
