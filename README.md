@@ -29,7 +29,7 @@
 <h2 >Trabajado anteriormente👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,bash,linux," />
+    <img src="https://skillicons.dev/icons?i=blender,reactnative,c,java,julia,bash,linux," />
   </a>
 </p>
 <br>
