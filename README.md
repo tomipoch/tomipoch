@@ -8,9 +8,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 👋 Provengo de Chile, especificamente de Talca, Estudiante de Ingeniería Civil Informática y me gusta mucho la tecnología,
-  los e-sports, la moda, escuchar todo tipo de música y jugar al fútbol.
-- 🌱 Actualmente estoy aprendiendo tecnologias front-end y hosting.
+- 👋 Provengo de Talca, Chile. Soy estudiante de Ingeniería Civil Informática y me gusta la moda, escuchar todo tipo de música, la relojería, coleccionar perfumes, leer libros y los deportes.
+- 🌱 Actualmente estoy aprendiendo como funciona lo relacionado a Backend, Bases de datos, Testing y Logging, entre otras cosas más.
 - 💞️ Busco colaborar en proyectos que tengan que ver con el diseño web o desarrollo de paginas web y en algún futuro aspirar a cosas más complejas.
 - 📫 Puedes contactarme desde mi email: ft.fernandotomas@gmail.com o a través de mis redes sociales.
 
