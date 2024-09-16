@@ -21,7 +21,8 @@
 <h2 >Cosas que domino👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,figma,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,git,figma,html,css,js" /></a>
+	<a
     <img src="https://skillicons.dev/icons?i=postgresql,nodejs,react,express,postman" />
   </a>
 </p>
