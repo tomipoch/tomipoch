@@ -21,7 +21,8 @@
 <h2 >Cosas que domino👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,figma,html,css,js,postgresql,nodejs,react,express,postman" />
+    <img src="https://skillicons.dev/icons?i=python,git,figma,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=postgresql,nodejs,react,express,postman" />
   </a>
 </p>
 <br>
@@ -29,7 +30,7 @@
 <h2 >Trabajado anteriormente👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,reactnative,c,java,julia,bash,linux," />
+    <img src="https://skillicons.dev/icons?i=blender,c,java,julia,bash,linux," />
   </a>
 </p>
 <br>
