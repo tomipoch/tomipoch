@@ -9,8 +9,8 @@
 
 
 - 👋 Provengo de Talca, Chile. Soy estudiante de Ingeniería Civil Informática y me gusta la moda, escuchar todo tipo de música, la relojería, coleccionar perfumes, leer libros y los deportes.
-- 🌱 Actualmente estoy aprendiendo como funciona lo relacionado a Backend, Bases de datos, Testing y Logging, entre otras cosas más.
-- 💞️ Busco colaborar en proyectos que tengan que ver con el diseño web o desarrollo de paginas web y en algún futuro aspirar a cosas más complejas.
+- 🌱 Actualmente busco hacer mi práctica profesional para finalmente titularme de mi carrera.
+- 💞️ Busco colaborar en proyectos en el ambito de: Desarrollo Web (Backend y frontend), Bases de Datos.
 - 📫 Puedes contactarme desde mi email: ft.fernandotomas@gmail.com o a través de mis redes sociales.
 
 <a href="https://www.linkedin.com/in/tomas-poblete-chamorro-a7a424286/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -18,7 +18,7 @@
 <a href = "mailto:ft.fernandotomas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
-<h2 >Cosas que domino👨🏻‍💻</h2>
+<h2 >Herramientas que domino👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,git,figma,html,css,js" />
