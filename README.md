@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold;">Bases de Datos:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,supabase"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Otros:</td>
