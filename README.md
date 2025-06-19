@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Bases de Datos:</td>
@@ -47,17 +47,9 @@
   </tr>
   <tr>
     <td style="font-weight: bold;">Otros:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman,bun,latex"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,docker,postman,bun,latex"/></td>
   </tr>
 </table>
-
----
-
-## 🧪 Tecnologías con las que he trabajado
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=julia,bash,linux,blender,figma,photoshop"/>
-</p>
 
 ---
 
