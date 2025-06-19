@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td style="font-weight: bold;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,springboot,c"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Frontend:</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold;">Bases de Datos:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,oracledb,neo4j,mongodb,supabase"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,supabase"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Otros:</td>
@@ -56,7 +56,7 @@
 ## 🧪 Tecnologías con las que he trabajado
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=julia,bash,linux,blender,figma,photoshop,lightroom"/>
+  <img src="https://skillicons.dev/icons?i=julia,bash,linux,blender,figma,photoshop"/>
 </p>
 
 ---
