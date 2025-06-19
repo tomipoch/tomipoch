@@ -8,11 +8,12 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
 
-- 📍Hola, soy Tomas, estudiante de Ingeniería en Informática de Talca, Chile. Me interesa desarrollar soluciones sólidas, eficientes y bien estructuradas, respetando los principios clásicos de la programación y aplicando buenas prácticas en cada proyecto.
+- 📍 Soy Tomas, estudiante de **Ingeniería en Informática** de Talca, Chile.  
+- ⚙️ Me interesa desarrollar soluciones sólidas, eficientes y bien estructuradas, respetando los principios clásicos de la programación y aplicando buenas prácticas en cada proyecto.  
+- 📈 Enfocado en el aprendizaje constante, la mejora continua y la construcción de software útil y mantenible.  
+- 💡 Creo firmemente en la disciplina, el orden y el código limpio como pilares del desarrollo profesional.  
 
-Mi enfoque está en el aprendizaje constante, la mejora continua y la construcción de software útil y mantenible. Creo firmemente en la disciplina, el orden y el código limpio.
-
-- 📫 Contacto: **ft.fernandotomas@gmail.com**
+📫 Contacto: **ft.fernandotomas@gmail.com**
 
 ---
 
@@ -32,22 +33,22 @@ Mi enfoque está en el aprendizaje constante, la mejora continua y la construcci
 ## 🛠️ Herramientas que domino
 
 <table>
-    <tr>
-        <td style="font-weight: bold;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,springboot,c"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Bases de Datos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,oracledb,neo4j,mongodb,supabase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Otros:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mp,mpi,docker,postman,bun,latex"/></td>
-    </tr>
+  <tr>
+    <td style="font-weight: bold;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,springboot,c"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Bases de Datos:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,oracledb,neo4j,mongodb,supabase"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Otros:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,postman,bun,latex"/></td>
+  </tr>
 </table>
 
 ---
@@ -62,10 +63,10 @@ Mi enfoque está en el aprendizaje constante, la mejora continua y la construcci
 
 ## 🎯 Objetivos actuales
 
-- 🔍 Finalizar mi carrera realizando una práctica profesional significativa.
-- 📦 Participar en proyectos reales que fortalezcan mis habilidades prácticas.
-- 📚 Profundizar en desarrollo backend con buenas prácticas y estructuras limpias.
-- 🌱 Mantenerme aprendiendo tecnologías relevantes para el mercado laboral actual.
+- 🎓 Finalizar mi carrera realizando una práctica profesional significativa.  
+- 🤝 Participar en proyectos reales que fortalezcan mis habilidades prácticas.  
+- 🔧 Profundizar en desarrollo backend con buenas prácticas y estructuras limpias.  
+- 📖 Mantenerme aprendiendo tecnologías relevantes para el mercado laboral actual.
 
 ---
 
@@ -73,11 +74,11 @@ Mi enfoque está en el aprendizaje constante, la mejora continua y la construcci
 
 <div align="center">
   <a href="https://github.com/tomipoch">
-    <img style="width: 80%; max-width: 600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+    <img style="width: 80%; max-width: 600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomipoch&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
   </a>
 
   <a href="https://github.com/tomipoch">
-    <img style="width: 80%; max-width: 600px;" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Racha de contribuciones" />
+    <img style="width: 80%; max-width: 600px;" src="https://github-readme-streak-stats.herokuapp.com/?user=tomipoch&theme=tokyonight" alt="Racha de contribuciones" />
   </a>
 </div>
 
@@ -88,4 +89,3 @@ Mi enfoque está en el aprendizaje constante, la mejora continua y la construcci
 > *"El código debe ser claro, funcional y útil. Siempre hay espacio para mejorar si hay disciplina y propósito."*
 
 ---
-
